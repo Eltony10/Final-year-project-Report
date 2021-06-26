@@ -1,4 +1,4 @@
-# Final-Year-Project-Report
+# Final Year Project - Report
 
 A systematic approach to financial modelling for stock price prediction using machine learning algorithms.
 
