@@ -1,2 +1,6 @@
-# Final-year-project-Report
-A systematic approach to financial modelling using machine learning
+# Final-Year-Project-Report
+
+A sstematic approach to financial modelling for stock price predcition using machine learning algorithms.
+
+
+The development of a software using 4 different machine learning to predict stock prices such as Linear Regression, Polynomial Regression, Random Forest and LSTM Neural Networks are implemented using the JupyterNotebook environment.
